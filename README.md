@@ -1,5 +1,6 @@
 # Car-Service-API
 Simple API for realizing some car services with users as sellers
+Link to deploy docs with all endpoints on swagger [here](https://darten.pythonanywhere.com/apidocs/#)
 ## Installation
 ```
 git clone git@github.com:darten360/taxi-service-darten.git
